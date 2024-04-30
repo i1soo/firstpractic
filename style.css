@@ -1,0 +1,14 @@
+body{
+    background-image: url(14784798.jpg);
+}
+.b1{
+    background-color: azure;
+    width: 600px;
+    height: 700px;
+    border-radius: 1%;
+}
+.nn{
+    font-size: 25px;
+    border: 1px solid black;
+    font-family: Arial;
+}
